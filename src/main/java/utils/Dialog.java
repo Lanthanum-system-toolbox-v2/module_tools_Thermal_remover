@@ -6,10 +6,10 @@ package utils;
 
 import android.content.Context;
 import android.content.DialogInterface;
-import android.support.v7.app.AlertDialog;
 import java.util.ArrayList;
 
 import android.widget.Toast;
+import androidx.appcompat.app.AlertDialog;
 import xzr.La.systemtoolbox.utils.process.ShellUtil;
 
 public class Dialog {
